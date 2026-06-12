@@ -58,7 +58,7 @@ To protect everyone's hard work, this repository uses a strict review workflow:
 
 ## ✨ Ground Rules
 
-*   **Be kind and respectful:** We're all learning at our own pace.
+*   **Be kind and respectful:** We're all learning at ouown pace.
 *   **Keep it academic:** Please don't upload direct answers to active assignments/coursework (let's not get into trouble with academic integrity!). Notes, summaries, study guides, and practice code are perfect.
 *   **Support each other:** See a mistake in someone's notes? Submit a pull request to fix it or add a clarification. 
 
