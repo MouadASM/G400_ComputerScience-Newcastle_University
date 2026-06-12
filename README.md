@@ -12,7 +12,7 @@ By collaborating here, we're not just helping each other crush our exams and ass
 
 ## Future Students/Cohorts
 
-For future students, feel free to add to this repo and improve it. It would be great if everyone centralised their resources for anyone to use at any time. Moreover, course content might change and having the most up-to-date resources will be beneficial for all
+For future students, feel free to add to this repo and improve it. It would be great if everyone centralised their resources for anyone to use at any time. Moreover, course content might change and having the most up-to-date resources will be beneficial for all.
 
 ## 📂 Structure
 
@@ -25,20 +25,36 @@ The repo is neatly organized by Year and then by Module. You will find sub-folde
 
 We welcome **ANY** format! Whether you like writing elegant Markdown (`.md`), exporting notion pages as PDFs, Word docs, or just taking pictures of your handwritten notes—it all belongs here.
 
-1. **Clone this repository** to your local machine:
+To keep the repository clean and avoid accidental overwrites, **direct pushes to the main branch are disabled.** All contributions must go through a Pull Request (PR). Here's how to do it:
+
+### The Git Way:
+1. **Fork** this repository (Click the "Fork" button at the top right of the GitHub page).
+2. **Clone your fork** to your local machine:
    ```bash
-   git clone <YOUR-GITHUB-REPO-URL>
+   git clone <YOUR-FORK-URL>
    ```
-2. **Navigate** to the specific Year and Module folder.
-3. **Drop your notes** in! Feel free to create sub-folders if you want to organize by week or topic (e.g., `Week_1/`, `Revision/`).
-4. **Commit and Push** your changes:
+3. **Create a new branch** for your notes:
+   ```bash
+   git checkout -b add-week-3-notes
+   ```
+4. **Drop your notes** into the correct Year and Module folder.
+5. **Commit and Push** your changes to your fork:
    ```bash
    git add .
    git commit -m "Added notes for Security Programming Week 3"
-   git push
+   git push origin add-week-3-notes
    ```
+6. **Open a Pull Request**! Go to the original repository on GitHub, and you'll see a green button to create a Pull Request from your new branch.
 
-*Don't know how to use Git yet?* No worries! You can also just click into a folder right here on GitHub, click **Add file** -> **Upload files**, and drag-and-drop your notes straight from your browser. Easy!
+### The Easy Web Way (No Git Required!):
+*Don't know how to use Git yet?* No worries! You can also just click into the relevant folder right here on GitHub, click **Add file** -> **Upload files**, drag-and-drop your notes, and GitHub will automatically help you create a new branch and Pull Request. Easy!
+
+## 🛡️ The Review Process (Gatekeeping for Quality!)
+
+To protect everyone's hard work, this repository uses a strict review workflow:
+*   **PRs are Mandatory:** Every single change must be submitted as a Pull Request.
+*   **Code Owner Approvals:** I (@MouadASM) have set myself as the Code Owner. This means **every Pull Request requires my review and approval** before it can be merged into the main branch. 
+*   **Why?** This isn't to hold you back! It's just to make sure notes are going into the right folders, files aren't accidentally deleted, and the repo stays organized for everyone. I'll review and approve PRs as fast as I can!
 
 ## ✨ Ground Rules
 
@@ -46,4 +62,4 @@ We welcome **ANY** format! Whether you like writing elegant Markdown (`.md`), ex
 *   **Keep it academic:** Please don't upload direct answers to active assignments/coursework (let's not get into trouble with academic integrity!). Notes, summaries, study guides, and practice code are perfect.
 *   **Support each other:** See a mistake in someone's notes? Submit a pull request to fix it or add a clarification. 
 
-Let's make this the best resource for our cohort. 
+Let's make this the best resource for our cohort. Happy coding! 💻🔥
