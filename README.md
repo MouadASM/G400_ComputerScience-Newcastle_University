@@ -62,4 +62,4 @@ To protect everyone's hard work, this repository uses a strict review workflow:
 *   **Keep it academic:** Please don't upload direct answers to active assignments/coursework (let's not get into trouble with academic integrity!). Notes, summaries, study guides, and practice code are perfect.
 *   **Support each other:** See a mistake in someone's notes? Submit a pull request to fix it or add a clarification. 
 
-Let's make this the best resource for our cohort. 
+Let's make this the best resource for our course. 
