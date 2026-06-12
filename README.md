@@ -10,6 +10,10 @@ This repository is designed to be our collective brain. It's a central place whe
 
 By collaborating here, we're not just helping each other crush our exams and assignments; we're building a legacy of resources to pass down to the students who come after us. When one of us succeeds, we all succeed! 🤝
 
+## Future Students/Cohorts
+
+For future students, feel free to add to this repo and improve it. It would be great if everyone centralised their resources for anyone to use at any time. Moreover, course content might change and having the most up-to-date resources will be beneficial for all
+
 ## 📂 Structure
 
 The repo is neatly organized by Year and then by Module. You will find sub-folders for all our classes across:
